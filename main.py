@@ -12,3 +12,5 @@ b = 2
 
 print(a - b)
 print(add(a, b))
+
+print(a * b)
